@@ -13,6 +13,7 @@ var milk int = 540
 var beans int = 120
 var cups int = 9
 
+// new comment
 var emojiCoffee string = emoji.Sprint(":coffee:")
 var emojiWater string = emoji.Sprint(":droplet:")
 var emojiBeans string = emoji.Sprint(":beans:")
