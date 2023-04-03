@@ -1,1 +1,0 @@
-# hskill_go
